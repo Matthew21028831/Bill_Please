@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Bill Please</string>
+    <string name="bill_calculator">Bill Calculator</string>
+    <string name="welcome_this_app_calculates_bills">Welcome. This app calculates bills!</string>
+    <string name="amount">Amount</string>
+    <string name="num_of_pax">Num of Pax</string>
+    <string name="add_on">Add on</string>
+    <string name="no_svs">No SVS</string>
+    <string name="gst">GST</string>
+    <string name="discount">Discount (%)</string>
+    <string name="payment">Payment</string>
+    <string name="cash">Cash</string>
+    <string name="paynow">Paynow</string>
+    <string name="split">Split</string>
+    <string name="reset">Reset</string>
+    <string name="total_bill">Total Bill:</string>
+    <string name="each_pays">Each pays:</string>
+</resources>
